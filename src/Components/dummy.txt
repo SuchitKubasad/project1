@@ -1,0 +1,14 @@
+// <Grid container>
+        //         {data.map((d, i) => (
+        //             <Grid item xs={12} md={4} >
+        //                 <Cource photo={d.photo} department={d.department} name={d.name} />
+        //             </Grid>
+        //         ))}
+        // </Grid>
+
+
+        {/* <Slider {...settings} ref={(c) => (sliderRef = c)} sx={{justifyContent:'space-between'}}>
+            {data.map((card, index) => (
+              <Cource key={index} card={card} />
+              ))}
+          </Slider> */}
